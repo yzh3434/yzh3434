@@ -9,17 +9,23 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 我是一名研一学生
+🎓 南京大学 人工智能学院 计算机科学与技术专业 研一在读
 
-💻 目前在寻找大模型应用相关实习
+🔬 研究方向: 多智能体路径规划
 
-🎓 就读于南京大学 人工智能学院 计算机科学与技术专业
-
-🌱 正在学习RAG
+💼 正在寻找 2026 暑期 大模型应用相关实习
 
 ✍️ 业余爱好: 健身、阅读
 
-💬 欢迎就 RAG、MAPF 与我交流
+💬 欢迎就 RAG、MAPF、LLM Agent 等话题交流
+
+✉️ 邮箱: yzh1580708947@gmail.com
+
+### 🎯 Current Focus
+
+> 探索多智能体路径规划(MAPF)的新型问题
+> 
+> 以及 RAG 系统在垂直领域的工程化落地。
 
 ### 🛠 Tech Stack
 
@@ -43,3 +49,4 @@
 ### 📫 How to reach me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yzh1580708947@gmail.com)
+[![WeChat](https://img.shields.io/badge/-微信-07C160?style=flat&logo=wechat&logoColor=white)](a1580708947)
