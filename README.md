@@ -3,18 +3,24 @@
 ### 👋 Hello there!
 
 ![version](https://img.shields.io/badge/version-2026.01-informational)
-![profile views](https://komarev.com/ghpvc/?username=你的GitHub用户名&color=red)
-![followers](https://img.shields.io/github/followers/你的GitHub用户名?label=follow&style=social)
+![profile views](https://komarev.com/ghpvc/?username=yzh3434&color=red)
+![followers](https://img.shields.io/github/followers/yzh3434?label=follow&style=social)
 ![build](https://img.shields.io/badge/build-passing-success)
 
 ### 👨🏻‍💻 About Me
 
 💡 我是一名学生
+
 💻 目前在 寻找 大模型应用相关实习
+
 🎓 就读于南京大学 人工智能学院 计算机科学与技术专业
+
 🌱 正在学习 RAG
+
 ✍️ 业余爱好: 健身、阅读
+
 💬 欢迎就 RAG、MAPF 与我交流
+
 ✉️ 邮箱: yzh1580708947@gmail.com
 
 ### 🛠 Tech Stack
@@ -31,10 +37,9 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=yzh3434&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzh3434&layout=compact&theme=tokyonight)
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](你的LinkedIn链接)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yzh1580708947@gmail.com)
