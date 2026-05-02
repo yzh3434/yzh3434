@@ -5,6 +5,7 @@
 ![version](https://img.shields.io/badge/version-2026.01-informational)
 ![profile views](https://komarev.com/ghpvc/?username=yzh3434&color=red)
 ![followers](https://img.shields.io/github/followers/yzh3434?label=follow&style=social)
+![stars](https://img.shields.io/github/stars/yzh3434?affiliations=OWNER&style=social)
 ![mood](https://img.shields.io/badge/mood-vibing-ff69b4)
 
 ### 👨🏻‍💻 About Me
@@ -36,6 +37,8 @@
 ![ROS](https://img.shields.io/badge/-ROS-05122A?style=flat&logo=ros&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langgraph&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-1a1a1a?style=flat&logo=milvus&logoColor=00A1EA)
+![Neo4j](https://img.shields.io/badge/Neo4j-1a1a1a?style=flat&logo=neo4j&logoColor=008CC1)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
@@ -43,8 +46,8 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yzh3434&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzh3434&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats-gamma-six-88.vercel.app/api?username=yzh3434&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-gamma-six-88.vercel.app/api/top-langs/?username=yzh3434&layout=compact&theme=tokyonight)
 
 ### 📫 How to reach me
 
